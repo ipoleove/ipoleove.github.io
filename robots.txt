@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipoleove.github.io/KdA/sitemap_index.txt
+Sitemap: https://ipoleove.github.io/Voa/sitemap_index.txt
+Sitemap: https://ipoleove.github.io/ldK/sitemap_index.txt
+Sitemap: https://ipoleove.github.io/vWi/sitemap_index.txt
